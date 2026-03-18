@@ -4,7 +4,7 @@
 
 ## 📁 Структура проекту
 
-* [**bug-report.md**](./bug-report.md) — детальний звіт про 11 знайдених дефектів (Critical, High, Medium, Minor).
+* [**bug-report.md**](./bug-report.md) — детальний звіт про 12 знайдених дефектів (Critical, High, Medium, Minor).
 * [**bug-report.pdf**](./bug-report.pdf) — універсальна версія звіту для завантаження.
 * **tests/** — автоматизовані E2E тести на базі Playwright (TypeScript).
 * **pages/** — реалізація шаблону Page Object Model (POM).
